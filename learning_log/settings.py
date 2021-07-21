@@ -26,7 +26,7 @@ SECRET_KEY = '3chutb=&a==bqbp9c8*zssn31fxt$le)s(dfse$ds#@17o=sm*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', 'git.heroku.com/intense-headland-03568.git', '127.0.0.1']
+ALLOWED_HOSTS = ['0.0.0.0', 'intense-headland-03568.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
